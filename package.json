@@ -1,6 +1,6 @@
 {
   "name": "managep",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "managep CLI sua CLI de gerenciamento de projetos",
   "private": false,
   "types": "build/types/types.d.ts",
