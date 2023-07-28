@@ -2,7 +2,7 @@
   "name": "managep",
   "version": "0.0.1",
   "description": "managep CLI",
-  "private": true,
+  "private": false,
   "types": "build/types/types.d.ts",
   "bin": {
     "managep": "bin/managep"
