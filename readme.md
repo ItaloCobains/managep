@@ -1,26 +1,24 @@
 # managep CLI
 
-A CLI for managep.
+## Sua CLI de gestão de projetos do github
 
-## Customizing your CLI
+- Install
 
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
+```bash
 
-## Publishing to NPM
-
-To package your CLI up for NPM, do this:
-
-```shell
-$ npm login
-$ npm whoami
-$ npm test
-
-$ npm run build
-
-$ npm publish
+npm i -g managep
 ```
 
-# License
+- Uso
 
-MIT - see LICENSE
+- Comands
 
+```bash
+
+  managep i || managep init
+
+  managep a || managep add
+
+  managep o || managep open
+
+```
